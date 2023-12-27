@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "array": "c",
+        "string_view": "c",
+        "type_traits": "c"
+    }
+}
